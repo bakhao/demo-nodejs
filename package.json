@@ -1,0 +1,15 @@
+{
+  "name": "node-js-docker",
+  "version": "1.0.0",
+  "description": "tuto node js with docker and probably mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Djickel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "twilio": "^4.17.0"
+  }
+}
